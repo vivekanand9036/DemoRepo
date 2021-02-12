@@ -1,8 +1,8 @@
 class Demo1
 {
-Public static void main (string args[])
+public static void main(String[] args)
 {
-	system.out.println("hello world");
-	system.out.println("my second change");
+	System.out.println("hello world");
+	System.out.println("my second change");
 }
 }
